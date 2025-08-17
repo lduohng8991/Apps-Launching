@@ -14,14 +14,18 @@ This project involves various files for data analysis and visualization. Here's 
 All project charts and interactive analyses are in Study_AppLaunch.pbix. Simply double-click the file (after unzipping if necessary) to open it with Power BI Desktop.
 
 **2. Running Python Scripts for User Experiences (py_script_run_2vers.txt)**
+**Option 1: **
 To view "Users Experiences Between 2 Versions" without installing all Python packages, use an online compiler (e.g., Online Plotly Compiler):
 Copy py_script_run_2vers.txt content into the compiler.
 
 Crucially, change the data reading line:
-_df = pd.read_csv(r'c:\\users\\your_name\\downloads\\Study_AppLauch\\data_appgame.csv')_
+_df = pd.read_csv(r"C:\Users\\YOUR_NAME\\Downloads\\LaDuongHong_Aptech_ExamSem1_AppLauch\\data_appgame.csv")_
 to:
 _df = pd.read_csv("data_appgame.csv")_
 Run the script.
+
+**Option 2: **
+If you've already had all the required packages, simply press ▶️'Run script' right into the dashboard and view the slide in another new local host tab (automatically).
 
 **3. Jupyter Notebook File (.ipynb)**
 The compare2vers.ipynb file is a Jupyter Notebook.
