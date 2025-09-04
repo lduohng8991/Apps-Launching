@@ -3,7 +3,7 @@
 _This setup is always tended to be a note-learning replay and never be an official analysis to be use in any circumstances._
 
 **Quick Analysis for a Comparision in Gaming Industry**  
-_This project delves into a case study on LiveOps within the gaming industry, focusing on a critical comparison between two game application versions (1.5.2 and 1.6.0) for mobile (Android) users located in Eastern Europe._
+_This project delves into a case study on Monitoring Before Launching within the gaming industry, focusing on a critical comparison between two game application versions (1.5.2 and 1.6.0) for mobile (Android) users located in Eastern Europe._
 _Comparative analysis of key metrics and user behavior between the two active versions to assess the impact of the tutorial changes and the overall performance of the new update._
 
 **How to Open Project Files**  
