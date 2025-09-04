@@ -28,6 +28,12 @@ Run the script.
 If you've already had all the required packages, simply press ▶️'Run script' right into the dashboard and view the slide in another new local host tab (automatically).
 
 **3. Jupyter Notebook File (.ipynb)**  
-The compare2vers.ipynb file is a Jupyter Notebook.  
+a. The 'compare2vers.ipynb' file is a script to excecute an impact on user experience by total playtime across all level phrases.  
 **Open Locally:** Use Anaconda (launch Jupyter Notebook) or Visual Studio Code with the Python extension.  
-**Open Cloud-based:** Upload to Google Drive and open with Google Colaboratory.
+**Open Cloud-based:** Upload to Google Drive and open with Google Colaboratory.  
+b. 'data_appgame_Overview.ipynb' to view a pre-processing data in several steps.  
+**Open Locally:** Use Anaconda (launch Jupyter Notebook) or Visual Studio Code with the Python extension.  
+**Open Cloud-based:** Upload to Google Drive and open with Google Colaboratory.  
+
+**4. Documents File (.docx)**  
+This document 'Project_Documents.docx' was exclusively viewed by members of the Aptech organization.  
