@@ -3,8 +3,9 @@
 _This setup is always tended to be a note-learning replay and never be an official analysis to be use in any circumstances._
 
 **Quick Analysis for a Comparision in Gaming Industry**  
-_This project delves into a case study on Monitoring Before Launching within the gaming industry, focusing on a critical comparison between two game application versions (1.5.2 and 1.6.0) for mobile (Android) users located in Eastern Europe._
-_Comparative analysis of key metrics and user behavior between the two active versions to assess the impact of the tutorial changes and the overall performance of the new update._
+_This project delves into a case study on Monitoring Before Launching within the gaming industry, focusing on a critical comparison between two game application versions (1.5.2 and 1.6.0) for mobile (Android) users located in Eastern Europe._  
+_Comparative analysis of key metrics and user behavior between the two active versions to assess the impact of the tutorial changes and the overall performance of the new update._  
+_See the full article here:: https://simulate-gaming-analysis.notion.site/Simulate-a-Gaming-Industry-Analysis-2c1f61fd433b40a586a51135365a2111._
 
 **How to Open Project Files**  
 **Note:** Detailed instructions regarding opening these files were also provided in the original project documentation URL.
